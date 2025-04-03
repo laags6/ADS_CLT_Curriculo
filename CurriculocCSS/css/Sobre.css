@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #201102;
+}
+
+#sobreMim {
+    width: 985px;
+}
+
+a {
+    color: #419c59;
+}
+
+a:hover {
+    color: #61c77c;
+
+    transition: color 0.3s;
+}
+
+.topico {
+    margin: 5px 0px 0px 30px;
+    
+}
+
+.logoRede {
+    padding-top:  8px;
+    text-decoration: none;
+}
+
+.logoRede img {
+    padding: 0px 5px;
+}

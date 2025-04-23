@@ -1,0 +1,30 @@
+body {
+    font-family: Montserrat, sans-serif;
+    color: #251c0c;
+}
+
+h2 {
+    border-bottom: #678d40 1px solid;
+    width: 150px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th.titulo {
+    padding: 10px;
+    background: #678d40;
+}
+
+table td {
+    padding: 5px;
+}
+

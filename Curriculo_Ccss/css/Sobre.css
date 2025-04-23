@@ -1,0 +1,42 @@
+body {
+    font-family: Montserrat, sans-serif;
+    color: #251c0c;
+}
+
+#container p {
+    margin: 0;
+}
+
+h2 {
+    border-bottom: #678d40 1px solid;
+    width: 150px;
+}
+
+#sobreMim {
+    width: 900px;
+    text-align: justify;
+}
+
+a {
+    color: #4a6e1a;
+}
+
+a:hover {
+    color: #7cb630;
+
+    transition: color 0.3s;
+}
+
+.topico {
+    margin: 5px 0px 0px 30px;
+    align-items: center;
+}
+
+.logoRede {
+    padding-top:  8px;
+    text-decoration: none;
+}
+
+.logoRede img {
+    padding: 0px 5px;
+}
